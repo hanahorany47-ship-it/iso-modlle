@@ -1,0 +1,6 @@
+{
+  "name": "NetTower: משחק מודל 7 השכבות OSI",
+  "description": "משחק רשת אינטראקטיבי בזמן אמת ללימוד מודל 7 השכבות OSI ו-TCP/IP לכיתות רשתות ומחשבים. תומך בעברית וערבית עם לוח מורה ומסכי תלמידים.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
